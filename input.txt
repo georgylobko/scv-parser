@@ -1,0 +1,1 @@
+Joe Linder,1975,CEO,male;Georgy Lobko,1993,Senior software engineer,male;Maria Saprina,1994,Account manager,female;Daniil Lushkov,1997,Software engineer,male;Sergio Lanranjo,1981,Doctor,male;

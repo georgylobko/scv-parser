@@ -128,6 +128,11 @@ int main() {
 
     fp = fopen("/Users/temp/CLionProjects/hw_1105/input.txt", "r");
 
+    if (fp == NULL){
+        printf("Cannot open file\n");
+        return 0;
+    }
+
     fgets(buff, sizeof(buff), fp);
 
     parseString(buff);

@@ -1,0 +1,5 @@
+name: Daniil Lushkov, year of birth: 64061448, job title: Software engineer, gender: male 
+name: Georgy Lobko, year of birth: 64061480, job title: Senior software engineer, gender: male 
+name: Joe Linder, year of birth: 64061512, job title: CEO, gender: male 
+name: Maria Saprina, year of birth: 64061544, job title: Account manager, gender: female 
+name: Sergio Lanranjo, year of birth: 64061576, job title: Doctor, gender: male 
